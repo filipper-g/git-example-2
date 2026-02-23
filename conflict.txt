@@ -1,6 +1,8 @@
 Round 1
--Paper
+
+-Paper     (master won)
 Round 2
--Rock
+-Rock      (other won)
 Round 3
--Scissors
+-Scissors  (other won)
+
